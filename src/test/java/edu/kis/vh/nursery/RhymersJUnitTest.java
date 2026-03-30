@@ -1,4 +1,4 @@
-// Projekt jest poprawny i działa
+// Projekt jest poprawny
 
 package edu.kis.vh.nursery;
 
